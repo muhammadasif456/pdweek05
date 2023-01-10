@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std
+string capital(string name);
+main()
+{
+ char namie;
+ char namie2;
+ namie=capital(name);
+
+ 
+}
+ string capital(string name)
+ {
+   cout<<"enter a chracter";
+   cin>>name;
+   cout<<"your have entered a sting<<name;
+   
+}
+   
+ 
+ 

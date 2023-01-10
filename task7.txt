@@ -1,0 +1,39 @@
+#include<iostream>
+using namespace std;
+float pipe1(int value);
+float pipe2(int value1);
+
+ main()
+ {
+ float per1;
+ float per2;
+ pipe1(int value);
+ per1=(value/10000)*100;
+ pipe2();
+ per2=(value1/10000)*100;
+ cout<<"pipe1"<<per1<<"...."<<"pipe2"<<per2;
+
+ }
+ float pipe1(int value)
+ {
+ int flowrate;
+ int hour;
+ cout<<"enter flowrate of first pipe[1....5000]"<<endl;
+ cin>>flowrate;
+ cout<<"enter hour "<<endl;
+ cin>>hour;
+ value=flowrate*hour;
+ return value;
+ }
+ float pipe2(int value)
+ {
+ float flowrate2;
+ float hour;
+ cout<<"enter flowrate of second pipe[1.....5000]"<<endl;
+ cin>>flowrate2;
+ cout<<"hour"<<endl;
+ cin>>hour;
+ value=flowrate2*hour;
+ return value1;
+ }
+ 

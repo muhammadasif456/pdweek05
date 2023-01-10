@@ -1,0 +1,40 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+float calpositive(); 
+float calnegative();
+ main()
+ {
+  calpositive();
+  calnegative();
+ }
+ float calpositive()
+{ 
+	cin>>a;
+	cin>>b;
+	cin>>c;
+ 	float step1;
+ 	float step2;
+	step1=pow(6,20;
+ 	step2=step1-4*5*1;
+ 	step3=sqrt(step2)
+ 	step4=-b+step3;
+ 	step5=2*a; 
+ 	step6=step4/step5;
+ 	cout<<step6;
+}
+void calnegative()
+{
+        cin>>a;
+	cin>>b;
+	cin>>c;
+ 	float step1;
+ 	float step2;
+	step1=pow(6,20;
+ 	step2=step1-4*5*1;
+ 	step3=sqrt(step2)
+ 	step4=-b+step3;
+ 	step5=2*a; 
+ 	step6=step4/step5;
+ 	cout<<step6;
+}
